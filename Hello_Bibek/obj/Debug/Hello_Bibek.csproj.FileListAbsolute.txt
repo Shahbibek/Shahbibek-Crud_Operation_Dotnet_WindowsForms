@@ -1,0 +1,11 @@
+E:\SEM V-RKU\.NET\Psee\Hello_Bibek\Hello_Bibek\bin\Debug\Hello_Bibek.exe.config
+E:\SEM V-RKU\.NET\Psee\Hello_Bibek\Hello_Bibek\bin\Debug\Hello_Bibek.exe
+E:\SEM V-RKU\.NET\Psee\Hello_Bibek\Hello_Bibek\bin\Debug\Hello_Bibek.pdb
+E:\SEM V-RKU\.NET\Psee\Hello_Bibek\Hello_Bibek\obj\Debug\Hello_Bibek.csproj.AssemblyReference.cache
+E:\SEM V-RKU\.NET\Psee\Hello_Bibek\Hello_Bibek\obj\Debug\Hello_Bibek.Form1.resources
+E:\SEM V-RKU\.NET\Psee\Hello_Bibek\Hello_Bibek\obj\Debug\Hello_Bibek.Form2.resources
+E:\SEM V-RKU\.NET\Psee\Hello_Bibek\Hello_Bibek\obj\Debug\Hello_Bibek.Properties.Resources.resources
+E:\SEM V-RKU\.NET\Psee\Hello_Bibek\Hello_Bibek\obj\Debug\Hello_Bibek.csproj.GenerateResource.cache
+E:\SEM V-RKU\.NET\Psee\Hello_Bibek\Hello_Bibek\obj\Debug\Hello_Bibek.csproj.CoreCompileInputs.cache
+E:\SEM V-RKU\.NET\Psee\Hello_Bibek\Hello_Bibek\obj\Debug\Hello_Bibek.exe
+E:\SEM V-RKU\.NET\Psee\Hello_Bibek\Hello_Bibek\obj\Debug\Hello_Bibek.pdb
